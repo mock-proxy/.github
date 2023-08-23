@@ -9,7 +9,7 @@
 * 多维度筛选搜索
 * 规则自动更新
 * 智能mock
-...
+* ...
 
 # 帮助文档
 见[链接](https://www.yuque.com/jaredliu/zg3rid)
